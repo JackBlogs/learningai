@@ -1,5 +1,5 @@
 # Learning-line-of-AI
-1、基础知识 (#1、基础知识)
+[1、基础知识](#1、基础知识)
 
 AI学习线路链接：https://www.echenshe.com/trends/ai/learnai.html
 完备的 AI 学习路线
