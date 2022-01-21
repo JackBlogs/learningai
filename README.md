@@ -1,4 +1,13 @@
 # Learning-line-of-AI
+
+## 1、基础知识数学
+### 1.1、数学
+#### 1.1.1、数学理论基础
+#### 1.1.2、机器学习数学基础
+
+### 1.2、统计学
+### 1.3、编程
+
 AI学习线路链接：https://www.echenshe.com/trends/ai/learnai.html
 完备的 AI 学习路线
 
