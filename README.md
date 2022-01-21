@@ -1,7 +1,7 @@
 # Learning-line-of-AI
-AI学习线路链接：https://www.echenshe.com/trends/ai/learnai.html
+# AI学习线路链接：https://www.echenshe.com/trends/ai/learnai.html
 
-完备的 AI 学习路线
+# 完备的 AI 学习路线
 
 基础知识
 
