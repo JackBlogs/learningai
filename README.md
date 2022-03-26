@@ -3,10 +3,11 @@
 
 AI学习线路链接：https://www.echenshe.com/trends/ai/learnai.html
 完备的 AI 学习路线
+完备的 AI 学习路线
+基础知识
 
-# 1、基础知识
-## 1.1、数学理论基础
-### 1.1.1、数学
+
+1. 数学
 数学是学不完的，入门人工智能领域，其实只需要掌握必要的基础知识就好。AI的数学基础最主要是高等数学、线性代数、概率论与数理统计三门课程，这三门课程是本科必修的。这里整理了一个简易的数学入门文章：
 
 数学基础：高等数学
@@ -21,7 +22,7 @@ https://zhuanlan.zhihu.com/p/36584206
 
 https://zhuanlan.zhihu.com/p/36584335
 
-### 1.1.2、机器学习的数学基础资料下载
+机器学习的数学基础资料下载：
 
 1) 机器学习的数学基础.docx
 
@@ -43,7 +44,7 @@ https://blog.csdn.net/Datawhale/article/details/81744961
 
  
 
-## 统计学
+2. 统计学
 入门教材：深入浅出统计学
 
 进阶教材：商务与经济统计
@@ -54,7 +55,7 @@ http://open.163.com/special/Khan/khstatistics.html
 
  
 
-# 1.3、编程
+3. 编程
 入门人工智能领域，首推Python这门编程语言。
 
 1) Python安装：
