@@ -1,5 +1,13 @@
 # Learning-line-of-AI
-[1、基础知识](#1、基础知识 "nn")
+1、基础知识
+2、数据分析/挖掘
+3、机器学习
+4、深度学习
+5、强化学习
+6、其钠盐Paper
+7、理论应用
+
+
 
 AI学习线路链接：https://www.echenshe.com/trends/ai/learnai.html
 完备的 AI 学习路线
