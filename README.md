@@ -118,25 +118,24 @@ https://zhuanlan.zhihu.com/p/56644669
 # 2、数据分析/挖掘
 
 
-1. 数据分析的基础书籍
+## 2.1、 数据分析的基础书籍
 《利用python进行数据分析》
 
 这本书含有大量的实践案例，你将学会如何利用各种Python库（包括NumPy，Pandas、Matplotlib以及IPython等）高效地解决各式各样的数据分析问题。如果把代码都运行一次，基本上就能解决数据分析的大部分问题了。
 
-2. 特征工程
+## 2.2、 特征工程
 https://blog.csdn.net/Datawhale/article/details/83033869
 
-3. 数据挖掘项目
+## 2.3、 数据挖掘项目
 https://blog.csdn.net/datawhale/article/details/80847662
 
  
 
-机器学习
+# 3、机器学习
 
 
-公开课
-
-吴恩达《Machine Learning》
+## 3.1、公开课
+### 3.1.1、吴恩达《Machine Learning》
 
 这绝对是机器学习入门的首选课程，没有之一！即便你没有扎实的机器学习所需的扎实的概率论、线性代数等数学基础，也能轻松上手这门机器学习入门课，并体会到机器学习的无穷趣味。
 
@@ -154,9 +153,7 @@ https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
  
 
-公开课
-
-吴恩达 CS229
+### 3.1.2、吴恩达 CS229
 
 吴恩达在斯坦福教授的机器学习课程 CS229 与 吴恩达在 Coursera 上的《Machine Learning》相似，但是有更多的数学要求和公式的推导，难度稍难一些。该课程对机器学习和统计模式识别进行了广泛的介绍。
 
@@ -184,9 +181,7 @@ https://github.com/Sierkinhane/CS229-ML-Implements
 
  
 
-公开课
-
-林轩田《机器学习基石》
+### 3.1.3、林轩田《机器学习基石》
 
 台湾大学林轩田老师的《机器学习基石》课程由浅入深、内容全面，基本涵盖了机器学习领域的很多方面。其作为机器学习的入门和进阶资料非常适合。而且林老师的教学风格也很幽默风趣，总让读者在轻松愉快的氛围中掌握知识。这门课比 Ng 的《Machine Learning》稍难一些，侧重于机器学习理论知识。
 
@@ -204,9 +199,7 @@ https://redstonewill.com/category/ai-notes/lin-ml-foundations/
 
  
 
-公开课
-
-林轩田《机器学习技法》
+### 3.1.4、公开课林轩田《机器学习技法》
 
 《机器学习技法》课程是《机器学习基石》的进阶课程。主要介绍了机器学习领域经典的一些算法，包括支持向量机、决策树、随机森林、神经网络等等。难度要略高于《机器学习基石》，具有很强的实用性。
 
@@ -220,9 +213,8 @@ https://redstonewill.com/category/ai-notes/lin-ml-techniques/
 
  
 
-书籍
-
-《机器学习》
+## 3.2、 书籍
+### 3.2.1、《机器学习》
 
 周志华的《机器学习》被大家亲切地称为“西瓜书”。这本书非常经典，讲述了机器学习核心数学理论和算法，适合有作为学校的教材或者中阶读者自学使用，入门时学习这本书籍难度稍微偏高了一些。
 
@@ -242,9 +234,7 @@ https://zhuanlan.zhihu.com/c_1013850291887845376
 
  
 
-书籍
-
-《统计学习方法》
+### 3.2.2、《统计学习方法》
 
 李航的这本《统计学习方法》堪称经典，包含更加完备和专业的机器学习理论知识，作为夯实理论非常不错。
 
@@ -268,9 +258,8 @@ https://github.com/fengdu78/lihang-code/tree/master/code
 
  
 
-书籍
 
-《Scikit-Learn 与 TensorFlow 机器学习实用指南》
+### 3.2.3、《Scikit-Learn 与 TensorFlow 机器学习实用指南》
 
 在经过前面的学习之后，这本《Scikit-Learn 与 TensorFlow 机器学习实用指南》非常适合提升你的机器学习实战编程能力。
 
@@ -282,7 +271,7 @@ https://github.com/ageron/handson-ml
 
  
 
-实战
+## 3.3、实战
 
 Kaggle 比赛
 
@@ -298,7 +287,7 @@ https://github.com/apachecn/kaggle
 
  
 
-工具
+## 3.4、工具
 
 Scikit-Learn 官方文档
 
@@ -314,12 +303,12 @@ http://sklearn.apachecn.org/#/
 
  
 
-深度学习
+# 4、深度学习
 
 
-公开课
+## 4.1、公开课
 
-吴恩达《Deep Learning》
+### 4.1.1、吴恩达《Deep Learning》
 
 在吴恩达开设了机器学习课程之后，发布的《Deep Learning》课程也备受好评，吴恩达老师的课程最大的特点就是将知识循序渐进的传授给你，是入门学习不可多得良好视频资料。
 
@@ -357,7 +346,7 @@ https://github.com/stormstone/deeplearning.ai
 
 公开课
 
-Fast.ai《程序员深度学习实战》
+### 4.1.2、Fast.ai《程序员深度学习实战》
 
 说到深度学习的公开课，与吴恩达《Deep Learning》并驾齐驱的另一门公开课便是由Fast.ai出品的《程序员深度学习实战》。这门课最大的特点便是“自上而下”而不是“自下而上”,是绝佳的通过实战学习深度学习的课程。
 
@@ -385,7 +374,7 @@ https://github.com/apachecn/fastai-ml-dl-notes-zh
 
 公开课
 
-CS230 Deep Learning
+### 4.1.3、CS230 Deep Learning
 
 斯坦福的深度学习课程CS230在4月2日刚刚开课，对应的全套PPT也随之上线。从内容来看，今年的课程与去年的差别不大，涵盖了CNNs, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization 等深度学习的基本模型，涉及医疗、自动驾驶、手语识别、音乐生成和自然语言处理等领域。
 
@@ -395,9 +384,9 @@ Datawhale整理了该门课程的详细介绍及参考资料:
 
  
 
-书籍
+## 4.2、书籍
 
-神经网络与深度学习 - 复旦邱锡鹏
+### 4.2.1、神经网络与深度学习 - 复旦邱锡鹏
 
 本书是入门深度学习领域的极佳教材，主要介绍了神经网络与深度学习中的基础知识、主要模型（前馈网络、卷积网络、循环网络等）以及在计算机视觉、自然语言处理等领域的应用。
 
@@ -407,7 +396,7 @@ Datawhale整理了该门课程的详细介绍及参考资料:
 
 书籍
 
-《深度学习》
+### 4.2.2、《深度学习》
 
 完成以上学习后，想要更加系统的建立深度学习的知识体系，阅读《深度学习》准没错。该书从浅入深介绍了基础数学知识、机器学习经验以及现阶段深度学习的理论和发展，它能帮助人工智能技术爱好者和从业人员在三位专家学者的思维带领下全方位了解深度学习。
 
@@ -425,7 +414,7 @@ https://github.com/exacity/deeplearningbook-chinese
 
 书籍
 
-《深度学习 500 问》
+### 4.2.3、《深度学习 500 问》
 
 当你看完了所有的视频，研习了AI圣经，一定充满了满脑子问号，此时不如来深度学习面试中常见的500个问题。
 
@@ -439,7 +428,7 @@ https://github.com/scutan90/DeepLearning-500-questions
 
  
 
-工具
+## 4.3、工具
 
 TensorFlow 官方文档
 
