@@ -1,6 +1,7 @@
 ****Learning-line-of-AI****
 
 > AI学习线路链接原网址：https://www.echenshe.com/trends/ai/learnai.html
+[1、基础知识](#1)
 
 # 1、基础知识
 ## 1.1、数学
@@ -27,7 +28,7 @@ https://zhuanlan.zhihu.com/p/36584335
 
 原版英文材料，非常全面，建议英语好的同学直接学习这个材料。
 
-下载链接:
+下载链接:<span id="1"></span>
 
 https://pan.baidu.com/s/1LaUlrJzy98CG1Wma9FgBtg 提取码: hktx
 
