@@ -2,6 +2,22 @@
 
 > AI学习线路链接原网址：https://www.echenshe.com/trends/ai/learnai.html
 
+<html>
+ <table>
+  <tr>
+   <td width="35%" top="0">
+    @[toc]1、基础知识
+    1.1、数学
+    1.1.1、数学基础：高等数学
+    1.1.2、数学基础：线性代数
+    1.1.3、数学基础：概率论与数理统计
+    1.1.4、机器学习的数学基础资料下载
+    1.2、统计学
+    1.3、编程
+    2、数据分析/挖掘
+   </td>
+   <td width="65%">
+    
 # 1、基础知识
 ## 1.1、数学
 数学是学不完的，入门人工智能领域，其实只需要掌握必要的基础知识就好。AI的数学基础最主要是高等数学、线性代数、概率论与数理统计三门课程，这三门课程是本科必修的。这里整理了一个简易的数学入门文章：
@@ -1170,3 +1186,8 @@ https://github.com/kangzhun/KnowledgeGraph-QA-Service
 Agriculture_KnowledgeGraph：
 
 https://github.com/qq547276542/Agriculture_KnowledgeGraph
+
+   </td>
+  </tr>
+ </table>
+</html>
