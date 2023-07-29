@@ -1,12 +1,9 @@
-# Learning-line-of-AI
+****Learning-line-of-AI****
 
-AI学习线路链接：https://www.echenshe.com/trends/ai/learnai.html
-完备的 AI 学习路线
-完备的 AI 学习路线
-基础知识
+> AI学习线路链接原网址：https://www.echenshe.com/trends/ai/learnai.html
 
-
-1. 数学
+# 1、基础知识
+## 1.1、数学
 数学是学不完的，入门人工智能领域，其实只需要掌握必要的基础知识就好。AI的数学基础最主要是高等数学、线性代数、概率论与数理统计三门课程，这三门课程是本科必修的。这里整理了一个简易的数学入门文章：
 
 数学基础：高等数学
