@@ -432,7 +432,7 @@ https://github.com/scutan90/DeepLearning-500-questions
 
 ## 4.3、工具
 
-TensorFlow 官方文档
+### 4.3.1、TensorFlow 官方文档
 
 学深度学习一定离不开TensorFlow
 
@@ -448,7 +448,7 @@ https://github.com/jikexueyuanwiki/tensorflow-zh
 
 工具
 
-PyTorch官方文档
+### 4.3.2、PyTorch官方文档
 
 PyTorch是学深度学习的另一个主流框架
 
@@ -462,12 +462,12 @@ https://github.com/apachecn/pytorch-doc-zh
 
  
 
-强化学习
+# 5、强化学习
 
 
-公开课
+## 5.1、公开课
 
-Reinforcement Learning-David Silver
+### 5.1.1、Reinforcement Learning-David Silver
 
 与吴恩达的课程对于机器学习和深度学习初学者的意义相同，David Silver的这门课程绝对是大多数人学习强化学习必选的课程。
 
@@ -497,7 +497,7 @@ https://www.zhihu.com/people/qqiang00/posts
 
 公开课
 
-李宏毅《深度强化学习》
+### 5.1.2、李宏毅《深度强化学习》
 
 David Silver的课程虽然内容详尽，但前沿的很多内容都没有被包括在内，这时，台大李宏毅的《深度强化学习》就是学习前沿动态的不二之选。
 
@@ -523,10 +523,10 @@ https://blog.csdn.net/cindy_1102/article/details/87905272
 
  
 
-前沿 Paper
+# 6、前沿 Paper
 
 
-1. Arxiv
+## 6.1、 Arxiv
 Arxiv Stats
 
 Arxiv 机器学习最新论文检索主页地址：
@@ -543,7 +543,7 @@ http://www.arxiv-sanity.com/?ref=bestofml.com
 
  
 
-2. Papers with Code
+## 6.2、 Papers with Code
 Papers with Code(Browse state-of-the-art)
 
 这个网站叫做 Browse state-of-the-art。它将 ArXiv 上的最新深度学习论文与 GitHub 上的开源代码联系起来。该项目目前包含了 651 个排行榜，1016 个深度学习任务，795 个数据集，以及重磅的 10257 个含复现代码的优秀论文。简直就是一个寻找论文和代码的利器。它将 1016 个深度学习任务分成了 16 大类，涉及了深度学习的各个方面。
@@ -572,7 +572,7 @@ https://github.com/zziz/pwc
 
  
 
-3. Deep Learning Papers 阅读路线
+## 6.3、 Deep Learning Papers 阅读路线
 如果你是深度学习领域的新手，你可能会遇到的第一个问题是“我应该从哪篇论文开始阅读？”下面是一个深入学习论文的阅读路线图！
 
 GitHub 项目地址：
@@ -589,7 +589,7 @@ https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
  
 
-4. Deep Learning Object Detection
+## 6.4、 Deep Learning Object Detection
 目标检测（Object Detection）是深度学习 CV 领域的一个核心研究领域和重要分支。纵观 2013 年到 2019 年，从最早的 R-CNN、Fast R-CNN 到后来的 YOLO v2、YOLO v3 再到今年的 M2Det，新模型层出不穷，性能也越来越好！
 
 本资源对目标检测近几年的发展和相关论文做出一份系统介绍，总结一份超全的文献 paper 列表。
@@ -602,8 +602,8 @@ https://github.com/hoya012/deep_learning_object_detection
 
  
 
-5. 知名会议
-会议
+# 7、 知名会议
+## 7.1、会议
 
 NeurIPS：https://nips.cc/
 
@@ -617,7 +617,7 @@ IJCAI：https://www.ijcai.org/
 
 UAI：http://www.auai.org/uai2019/index.php
 
-计算机视觉：
+## 7.2、计算机视觉：
 
 CVPR：http://cvpr2019.thecvf.com/
 
@@ -625,7 +625,7 @@ ECCV：https://eccv2018.org/program/main-conference/
 
 ICCV：http://iccv2019.thecvf.com/
 
-自然语言处理：
+## 7.3、自然语言处理：
 
 ACL：http://www.aclcargo.com/
 
@@ -633,13 +633,13 @@ EMNLP：https://www.aclweb.org/portal/content/emnlp-2018
 
 NAACL：https://naacl2019.org/
 
-知名期刊:
+## 7.4、知名期刊:
 
 JAIR：https://www.jair.org/index.php/jair
 
 JMLR：http://www.jmlr.org/
 
-其它
+## 7.5、其它
 
 机器人方面，有 CoRL（学习）、ICAPS（规划，包括但不限于机器人）、ICRA、IROS、RSS；
 
@@ -647,10 +647,10 @@ JMLR：http://www.jmlr.org/
 
  
 
-理论应用
+# 8、理论应用
 
 
-自然语言处理
+## 8.1、自然语言处理
 1. NLP是什么
 自然语言处理（NLP，Natural Language Processing）是研究计算机处理人类语言的一门技术，目的是弥补人类交流（自然语言）和计算机理解（机器语言）之间的差距。NLP包含句法语义分析、信息抽取、文本挖掘、机器翻译、信息检索、问答系统和对话系统等领域。
 
@@ -758,7 +758,7 @@ https://github.com/mhagiwara/100-nlp-papers
 
  
 
-计算机视觉
+## 8.2、计算机视觉
 1. 计算机视觉的应用
 计算机视觉的应用
 无人驾驶
@@ -797,7 +797,7 @@ https://mp.weixin.qq.com/s/-NaDpXsxvu4DpXqVNXIAvQ
 
  
 
-推荐系统
+## 8.3、推荐系统
 1. 推荐系统是什么
 推荐系统就是自动联系用户和物品的一种工具，它能够在信息过载的环境中帮助用户发现令他们感兴趣的信息，也能将信息推送给对它们感兴趣的用户。推荐系统属于资讯过滤的一种应用。
 
@@ -901,7 +901,7 @@ http://techblog.netflix.com/2013/03/system-architectures-for.html
 
  
 
-风控模型（评分卡模型）
+## 8.4、风控模型（评分卡模型）
 1. 评分卡模型简介
 评分卡模型时在银行、互金等公司与借贷相关业务中最常见也是最重要的模型之一。简而言之它的作用就是对客户进行打分，来对客户是否优质进行评判。
 
@@ -941,7 +941,7 @@ http://techblog.netflix.com/2013/03/system-architectures-for.html
 
  
 
-知识图谱
+## 8.5、知识图谱
 1. 知识图谱是什么
 知识图谱是一种结构化数据的处理方法，它涉及知识的提取、表示、存储、检索等一系列技术。从渊源上讲，它是知识表示与推理、数据库、信息检索、自然语言处理等多种技术发展的融合。
 
