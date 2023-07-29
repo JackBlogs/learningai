@@ -3,10 +3,10 @@
 > AI学习线路链接原网址：https://www.echenshe.com/trends/ai/learnai.html
 
 <html>
- <table>
-  <tr>
-   <td width="35%" top="0">
-    @[toc]1、基础知识
+ <table border="0">
+  <tr border="0">
+   <td width="35%" border="0" top="0" style="text-align:top;">
+    1、基础知识
     1.1、数学
     1.1.1、数学基础：高等数学
     1.1.2、数学基础：线性代数
@@ -16,7 +16,7 @@
     1.3、编程
     2、数据分析/挖掘
    </td>
-   <td width="65%">
+   <td width="65%" border="0">
     
 # 1、基础知识
 ## 1.1、数学
