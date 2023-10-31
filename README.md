@@ -8,12 +8,33 @@
   - [1.2、统计学](#12统计学)  
   - [1.3、编程](#13编程)  
 - [2、数据分析/挖掘](#2数据分析挖掘) 
+  - [2.1、 数据分析的基础书籍](#21数据分析的基础书籍)
+  - [2.2、特征工程](#22特征工程])
+  - [2.3、数据挖掘项目](#23数据挖掘项目)
 - [3、机器学习](#3机器学习)
+  - [3.1、公开课](#31公开课)
+  - [3.2、书籍](#32书籍)
+  - [3.3、实战](#33实战)
+  - [3.4、工具](#34工具)
 - [4、深度学习](#4深度学习)
+  - [4.1、公开课](41公开课)
+  - [4.2、书籍](42书籍)
+  - [4.3、工具](43工具)
 - [5、强化学习](#5强化学习)
+  - [5.1、公开课](51公开课)
 - [6、前沿Paper](#6前沿Paper)
-- [7、知名会议](#7知名会议)
-- [8、理论应用](#8理论应用)
+  - [6.1、 Arxiv](#61Arxiv)
+  - [6.2、 Papers with Code](#62PaperswithCode)
+  - [6.3、 Deep Learning Papers 阅读路线](#63DeepLearningPapers阅读路线)
+  - [6.4、 Deep Learning Object Detection](#64DeepLearningObjectDetection)
+  - [6.5、知名会议](#65知名会议)
+- [7、理论应用](#7理论应用)
+  - [7.1、自然语言处理](#71自然语言处理)
+  - [7.2、计算机视觉](#72计算机视觉)
+  - [7.3、推荐系统](73推荐系统)
+  - [7.4、风控模型（评分卡模型）](#74风控模型评分卡模型)
+  - [7.5、知识图谱](#75知识图谱)
+  
 
 
 ****Learning-line-of-AI****
@@ -617,8 +638,8 @@ https://github.com/hoya012/deep_learning_object_detection
 
  
 
-# 7、知名会议
-## 7.1、会议
+## 6.5、知名会议
+### 6.5.1、会议
 
 NeurIPS：https://nips.cc/
 
@@ -632,7 +653,7 @@ IJCAI：https://www.ijcai.org/
 
 UAI：http://www.auai.org/uai2019/index.php
 
-## 7.2、计算机视觉：
+### 6.5.2、计算机视觉：
 
 CVPR：http://cvpr2019.thecvf.com/
 
@@ -640,7 +661,7 @@ ECCV：https://eccv2018.org/program/main-conference/
 
 ICCV：http://iccv2019.thecvf.com/
 
-## 7.3、自然语言处理：
+### 6.5.3、自然语言处理：
 
 ACL：http://www.aclcargo.com/
 
@@ -648,13 +669,13 @@ EMNLP：https://www.aclweb.org/portal/content/emnlp-2018
 
 NAACL：https://naacl2019.org/
 
-## 7.4、知名期刊:
+### 6.5.4、知名期刊:
 
 JAIR：https://www.jair.org/index.php/jair
 
 JMLR：http://www.jmlr.org/
 
-## 7.5、其它
+### 6.5.5、其它
 
 机器人方面，有 CoRL（学习）、ICAPS（规划，包括但不限于机器人）、ICRA、IROS、RSS；
 
@@ -662,10 +683,10 @@ JMLR：http://www.jmlr.org/
 
  
 
-# 8、理论应用
+# 7、理论应用
 
 
-## 8.1、自然语言处理
+## 7.1、自然语言处理
 1. NLP是什么
 自然语言处理（NLP，Natural Language Processing）是研究计算机处理人类语言的一门技术，目的是弥补人类交流（自然语言）和计算机理解（机器语言）之间的差距。NLP包含句法语义分析、信息抽取、文本挖掘、机器翻译、信息检索、问答系统和对话系统等领域。
 
@@ -773,7 +794,7 @@ https://github.com/mhagiwara/100-nlp-papers
 
  
 
-## 8.2、计算机视觉
+## 7.2、计算机视觉
 1. 计算机视觉的应用
 计算机视觉的应用
 无人驾驶
@@ -812,7 +833,7 @@ https://mp.weixin.qq.com/s/-NaDpXsxvu4DpXqVNXIAvQ
 
  
 
-## 8.3、推荐系统
+## 7.3、推荐系统
 1. 推荐系统是什么
 推荐系统就是自动联系用户和物品的一种工具，它能够在信息过载的环境中帮助用户发现令他们感兴趣的信息，也能将信息推送给对它们感兴趣的用户。推荐系统属于资讯过滤的一种应用。
 
@@ -916,7 +937,7 @@ http://techblog.netflix.com/2013/03/system-architectures-for.html
 
  
 
-## 8.4、风控模型（评分卡模型）
+## 7.4、风控模型（评分卡模型）
 1. 评分卡模型简介
 评分卡模型时在银行、互金等公司与借贷相关业务中最常见也是最重要的模型之一。简而言之它的作用就是对客户进行打分，来对客户是否优质进行评判。
 
@@ -956,7 +977,7 @@ http://techblog.netflix.com/2013/03/system-architectures-for.html
 
  
 
-## 8.5、知识图谱
+## 7.5、知识图谱
 1. 知识图谱是什么
 知识图谱是一种结构化数据的处理方法，它涉及知识的提取、表示、存储、检索等一系列技术。从渊源上讲，它是知识表示与推理、数据库、信息检索、自然语言处理等多种技术发展的融合。
 
@@ -982,11 +1003,11 @@ http://www.infoq.com/cn/news/2017/11/Knowledge-map-cornerstone-AI#0-tsina-1-5001
 http://rdc.hundsun.com/portal/article/907.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 3. 主要内容
-3.1 知识提取
+  知识提取
 
 构建kg首先需要解决的是数据，知识提取是要解决结构化数据生成的问题。我们可以用自然语言处理的方法，也可以利用规则。
 
-3.1.1 使用规则
+  使用规则
 
 正则表达式
 
@@ -1048,7 +1069,7 @@ Stanford CoreNLP 进行中文命名实体识别
 
 https://blog.csdn.net/guolindonggld/article/details/72795022
 
-3.1.2 使用深度学习
+ 使用深度学习
 
 使用自然语言处理的方法，一般是给定schema，从非结构化数据中抽取特定领域的三元组（spo），如最近百度举办的比赛就是使用DL模型进行信息抽取。
 
@@ -1076,7 +1097,7 @@ https://blog.csdn.net/irving_zhang/article/details/78889364
 
 https://caicai.science/2018/10/06/attention%E6%80%BB%E8%A7%88/
 
-3.2 知识表示
+ 知识表示
 
 知识表示（Knowledge Representation，KR，也译为知识表现）是研究如何将结构化数据组织，以便于机器处理和人的理解的方法。
 
@@ -1100,7 +1121,7 @@ JSON-LD
 
 主页：http://json-ld.org/
 
-3.3 知识存储
+  知识存储
 
 需要熟悉常见的图数据库
 
@@ -1122,7 +1143,7 @@ d.RDF数据库Stardog
 
 Stardog官网：http://stardog.com/
 
-3.4 知识检索
+  知识检索
 
 需要熟悉常见的检索技术
 
@@ -1147,7 +1168,7 @@ D2RQ：
 
 http://d2rq.org/getting-started
 
-4.1 Protege构建本体系列
+ Protege构建本体系列
 
 protege：
 
@@ -1156,24 +1177,23 @@ https://protege.stanford.edu/
 protege使用：
 
 https://zhuanlan.zhihu.com/p/32389370
-
-4.2 开发语言
+  开发语言
 
 python或java
 
-4.3 图数据库技术
+  图数据库技术
 
 Neo4j：https://neo4j.com/
 
 AllegroGraph：https://franz.com/agraph/allegrograph/
 
-4.4 可视化技术
+  可视化技术
 
 d3.js：https://d3js.org/
 
 Cytoscape.js：http://js.cytoscape.org/
 
-4.5 分词技术
+  分词技术
 
 jieba：https://github.com/fxsjy/jieba
 
