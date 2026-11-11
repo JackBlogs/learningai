@@ -20,6 +20,7 @@
   - [4.1、公开课](41公开课)
   - [4.2、书籍](42书籍)
   - [4.3、工具](43工具)
+  - [4.4、个人笔记](#44个人笔记)
 - [5、强化学习](#5强化学习)
   - [5.1、公开课](51公开课)
 - [6、前沿Paper](#6前沿Paper)
@@ -494,6 +495,12 @@ https://pytorch.org/docs/stable/index.html
 中文文档(版本0.3)：
 
 https://github.com/apachecn/pytorch-doc-zh
+
+ 
+
+## 4.4、个人笔记
+
+- [残差（Residual）](MLBaseLearning/4深度学习/4-1残差.md)：统计学中的残差（e = y − ŷ）、ResNet 残差连接、梯度高速公路、1×1 投影捷径、与 GBDT 负梯度的关系；配套 NumPy 可运行代码 [residual_demo.py](MLTest/residual_demo.py)。
 
  
 
